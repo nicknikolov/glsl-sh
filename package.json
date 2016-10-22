@@ -1,0 +1,17 @@
+{
+  "name": "glsl-sh",
+  "version": "0.1.0",
+  "description": "get color from spherical harmonic coefficients and normals",
+  "main": "index.glsl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spherical",
+    "harmonics",
+    "glsl",
+    "webgl"
+  ],
+  "author": "nicknikolov <nick@nklv.me>",
+  "license": "MIT"
+}
