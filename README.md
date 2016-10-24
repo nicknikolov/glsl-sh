@@ -34,7 +34,7 @@ Please see the cubemap-sh repo for a complete [example](https://github.com/nickn
 
 ### sh(vec3[9] c, vec3 worldNormal)
 - c: spherical harmonics coefficients
-- normal: varying attribute, the world normal
+- normal: the world normal
 
 returns `vec3`, the calculated color
 
